@@ -5,6 +5,8 @@ https://github.com/smpetersgithub/AdvancedSQLPuzzles/tree/main/Advanced%20SQL%20
 USE SQLPuzzles;
 GO
 
+-- Exercises 1-10
+
 
 -- Puzzle #1
 DROP TABLE IF EXISTS Cart1;
